@@ -1,0 +1,22 @@
+{
+    "name": "my-nextjs-dashboard",
+    "version": "1.0.0",
+    "scripts": {
+      "dev": "next dev",
+      "build": "next build",
+      "start": "next start"
+    },
+    "dependencies": {
+      "next": "14.x",
+      "react": "18.x",
+      "react-dom": "18.x",
+      "next-auth": "beta",
+      "@vercel/postgres": "^1.5.0",
+      "bcrypt": "^5.0.1",
+      "zod": "^3.11.6"
+    },
+    "devDependencies": {
+      "typescript": "^4.9.5"
+    }
+  }
+  
